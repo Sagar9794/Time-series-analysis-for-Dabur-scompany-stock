@@ -1,5 +1,5 @@
 # Time-series-analysis-for-Dabur-scompany-stock
-In this I have tried to fit a time series model i.e ARIMA model on Dabur company stock closing stock values and analyse if the model can predict 
+In this I have tried to fit a time series model i.e ARIMA model on Dabur company closing stock values and analyse if the model can predict 
 correctly.
 
 ## The steps I have followed are 
